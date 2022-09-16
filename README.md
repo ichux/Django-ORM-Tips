@@ -1,2 +1,2 @@
 # Django ORM Tips
-Every tips and trick exposed in Django ORM
+Every tips and tricks exposed in Django ORM
